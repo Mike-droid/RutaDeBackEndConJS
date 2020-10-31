@@ -1,0 +1,22 @@
+{
+  "name": "Curso_de_NPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.16.1",
+    "webpack": "^5.3.2"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.12.1"
+  }
+}
